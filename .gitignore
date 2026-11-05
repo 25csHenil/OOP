@@ -1,0 +1,7 @@
+*.class
+bin/
+*.ser
+*.dat
+*.log
+.DS_Store
+Thumbs.db
